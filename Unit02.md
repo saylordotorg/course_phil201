@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL201: The Philosophy of Death"
+course_description: "A detailed introduction to the philosophical problems surrounding death. This course uses the doctrines and arguments of a number of prominent philosophers, including Plato, Michel de Montaigne, Leo Tolstoy, David Hume and Walter Kaufmann, to encourage philosophical thought on the subject."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Personal Identity and the Nature of Death** <span
 id="2"></span> 
 *What is death, exactly?  Many would say that death occurs when a person
