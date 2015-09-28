@@ -186,3 +186,4 @@ the webpage above.
 - [Unit 2](https://legacy.saylor.org/phil201/Unit02/)
 - [Unit 3](https://legacy.saylor.org/phil201/Unit03/)
 - [Unit 4](https://legacy.saylor.org/phil201/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PHIL/PHIL201/PHIL201-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PHIL/PHIL201/PHIL201-FinalExam-Answers.html)
