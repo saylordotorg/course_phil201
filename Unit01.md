@@ -481,7 +481,7 @@ id="1.3.2"></span> 
 
 -   **Reading: Wikipedia’s “Theory of Forms” Article**
     Link: Wikipedia’s [“Theory of
-    Forms”](http://www.saylor.org/site/wp-content/uploads/2011/10/PHIL201-1.3.3.pdf)
+    Forms”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/PHIL201-1.3.3.pdf)
     (PDF)  
         
      Also available in:  

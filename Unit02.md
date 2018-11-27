@@ -194,7 +194,7 @@ id="2.1.5"></span> 
     II, Chapter XXVII “Of Identity and Diversity”**
     Link: John Locke’s *Essay Concerning Human Understanding*: Book II,
     Chapter XXVII [“Of Identity and
-    Diversity”](http://www.saylor.org/site/wp-content/uploads/2011/10/PHIL201-2.1.5.pdf)
+    Diversity”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/PHIL201-2.1.5.pdf)
     (PDF)  
         
      Also available in:  
@@ -366,7 +366,7 @@ id="2.2.2"></span> 
 -   **Reading: Leo Tolstoy’s The Death of Ivan Ilyich**
     Link: Leo Tolstoy’s The Classical Library’s version of Leo Tolstoy’s
     “[The Death of Ivan
-    Ilyich](http://www.saylor.org/site/wp-content/uploads/2011/10/PHIL201-2.2.3.pdf)”
+    Ilyich](https://resources.saylor.org/archived/wp-content/uploads/2011/10/PHIL201-2.2.3.pdf)”
     (PDF)  
         
      Also available in:  
