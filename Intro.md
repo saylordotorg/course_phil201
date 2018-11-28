@@ -107,7 +107,7 @@ computer.
  √    Be competent in the English language.  
   
  √    Have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
   
  √    Have completed [ENGL001](../../courses/engl001/ "ENGL001") and
 [ENGL002](../../courses/engl002/ "ENGL002") as part of the “[General

@@ -154,7 +154,7 @@ id="3.1.4"></span> 
     Learn to Die” Essay**
     Link: Michel de Montaigne’s [“That To Study Philosophy is to Learn
     to
-    Die”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/PHIL201-3.1.4.pdf)
+    Die”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/PHIL201-3.1.4.pdf)
     (PDF)  
         
      Also available in:  
@@ -214,7 +214,7 @@ id="3.1.6"></span> 
 -   **Reading: Jonathan Swift’s Gulliver’s Travels, Part III, Chapter
     X**
     Link: Jonathan Swift’s *Gulliver’s Travels*, [Part III, Chapter
-    X](https://resources.saylor.org/archived/wp-content/uploads/2011/10/PHIL201-3.1.6.pdf)
+    X](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/PHIL201-3.1.6.pdf)
     (PDF)  
         
      Also available in:  
@@ -382,7 +382,7 @@ id="3.2.5"></span> 
 -   **Reading: Lucretius’ On the Nature of Things: “Folly of the Fear of
     Death”**
     Link: Lucretius’ *On the Nature of Things*: [“Folly of the Fear of
-    Death”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/PHIL201-3.2.5.pdf)
+    Death”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/PHIL201-3.2.5.pdf)
     (PDF)  
         
      Also available in:  
@@ -469,7 +469,7 @@ id="3.2.6"></span> 
 id="3.3.1"></span> 
 -   **Reading: David Hume’s “On Suicide” Essay**
     Link: David Hume’s [“On
-    Suicide”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/PHIL201-3.3.1.pdf)
+    Suicide”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/PHIL201-3.3.1.pdf)
     (PDF)  
         
      Also available in:  
